@@ -1,6 +1,9 @@
-# odin-dashboard
+# Odin Admin Dashboard Project
 
-Icons and images from:
+Final project for HTML/CSS Intermediate
+
+
+### Icons and images from:
 
 https://pictogrammers.com/library/mdi/
 
